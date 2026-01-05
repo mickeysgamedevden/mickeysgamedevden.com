@@ -38,7 +38,7 @@ The images below are still available in the IndieDB and I apparently created a Y
 
 ![Solstice concept art](./images/starship.jpeg)
 
-![Solstice concept art (mothership)](mothership.png)
+![Solstice concept art (mothership)](./images/mothership.png)
 
 https://youtu.be/JzbV-758Peo?si=FCfEPDHZ8fW3ERMx
 
