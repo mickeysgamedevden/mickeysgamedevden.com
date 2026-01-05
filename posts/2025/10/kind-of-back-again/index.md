@@ -15,6 +15,6 @@ I havn't been tinkering with videos games the last months — I didn't even thin
 
 Now [Googles Halloween 2025 Doodle](https://g.co/doodle/xatxsfw) is a good example of how video games can be enjoyed in a simple browser window. It made me thinking, "Why not look into [HTML5](https://en.wikipedia.org/wiki/HTML5) next?"
 
-![](Pac-Man.avif)
+![](./images/Pac-Man.avif)
 
 Happy Halloween!

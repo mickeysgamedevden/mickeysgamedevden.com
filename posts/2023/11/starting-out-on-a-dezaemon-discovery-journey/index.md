@@ -15,4 +15,4 @@ Things got interesting when, while working on a shooter prototype on PICO-8, I r
 
 This wealth of interesting games made me want to better understand the kind of blueprint the Dezaemon games provided for the different console platforms and generations. I tracked down the cartridges and discs for Famicom, Super Famicom, PlayStation, Nintendo 64 and Sega Saturn on eBay and am looking forward to diving deep into the Dezaemon Dimensions...  
 
-![Shmup_Lyf issue "Dezaemon Dimensions"](image.jpeg)
+![Shmup_Lyf issue "Dezaemon Dimensions"](./images/image.jpeg)

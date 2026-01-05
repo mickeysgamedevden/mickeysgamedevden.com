@@ -20,23 +20,23 @@ Unfortunately, the source code and all the assets of Solstice have been lost —
 
 The images below are still available in the IndieDB and I apparently created a YouTube account as DeepseaweedGames.
 
-![Solstice Icon (full)](icon2-1.png)
+![Solstice Icon (full)](./images/icon2-1.png)
 
-![Solstice screenshot 1](12_1.png)
+![Solstice screenshot 1](./images/12_1.png)
 
-![Solstice screenshot 2](capture_2.png)
+![Solstice screenshot 2](./images/capture_2.png)
 
-![Solstice screenshot 3](capture_4.png)
+![Solstice screenshot 3](./images/capture_4.png)
 
-![Solstice screenshot 4](capture_5.png)
+![Solstice screenshot 4](./images/capture_5.png)
 
-![Solstice screenshot 5](capture_6.png)
+![Solstice screenshot 5](./images/capture_6.png)
 
-![Solstice feature graphic](feature_graphic.png)
+![Solstice feature graphic](./images/feature_graphic.png)
 
-![Solstice planet textures](planets.png)
+![Solstice planet textures](./images/planets.png)
 
-![Solstice concept art](starship.jpeg)
+![Solstice concept art](./images/starship.jpeg)
 
 ![Solstice concept art (mothership)](mothership.png)
 

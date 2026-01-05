@@ -11,7 +11,7 @@ tags:
 
 "[When you’re done playing games, what will you make with your Steam Deck?](#steamdeck)" Making games, of course. Making games on the same hardware than playing games was the big appeal of home computers in the 80'. The Steam Deck is a portable game console as well as a portable game development kit. The last page of Valve's Steam Deck Booklet shows several music instruments, one of them is the OP-1, teenage engineering's "[portable wonder synthesizer](https://teenage.engineering/products/op-1/original)". The Steam Deck will be the video game developer's OP-1. 
 
-![OP-1, teenage engineering's "portable wonder synthesizer" as well as other music instruments on the last page to the Steam Deck Booklet.](image-3.png)
+![OP-1, teenage engineering's "portable wonder synthesizer" as well as other music instruments on the last page to the Steam Deck Booklet.](./images/image-3.png)
 
 I did own several home computers when I was a kid, back in the 80', and I always wanted to make games on them, but BASIC was not a language to make a cool game, and assembly language was out of my reach. When I finally got a copy of Borland's Turbo Pascal compiler, music and girls had become much more interesting than computers. The home computer's place had been taken by an electric guitar. 
 
@@ -23,15 +23,15 @@ While setting up my Steam Deck for game development, and having it running in de
 
 The hardware I am using is an ASUS Chromebook Flip C436 running the stock Google ChromeOS, but any Chromebook that is capable running a Linux development environment should do. All you must do is to turn the "Linux development environment" on in "Settings" and unpack the pico-8 folder from Lexaloffle's official Linux download to your Chromebook's Linux files. 
 
-![Enable the "Linux development environment".](mickeysgamedevden.com/posts/2023/09/when-youre-done-playing-games/images/image-2.png)
+![Enable the "Linux development environment".](./images/image-2.png)
 
 After changing the permission of the pico8 binary to executable, you can run PICO-8 and make, share, and play "[tiny games and other computer programs](https://www.lexaloffle.com/pico-8.php)". 
 
-![Make pico8 executable.](mickeysgamedevden.com/posts/2023/09/when-youre-done-playing-games/images/image-1.png)
+![Make pico8 executable.](./images/image-1.png)
 
 Happy programming! 
 
-![PICO-8 on a Chromebook.](mickeysgamedevden.com/posts/2023/09/when-youre-done-playing-games/images/image.png)
+![PICO-8 on a Chromebook.](./images/image.png)
 
 References: 
 
